@@ -3,6 +3,7 @@
 The objective of this project is to analyze Zomato restaurant data to extract meaningful insights about dining preferences, online and offline ordering trends, cost patterns, and restaurant ratings, and to understand customer behavior across different restaurant categories.
 ## Dataset
 The dataset contains the following columns:
+
 name: Name of the restaurant
 
 online_order: Indicates if the restaurant accepts online orders
@@ -18,6 +19,7 @@ approx_cost(for two people): Approximate cost for two people
 listed_in(type): Type of the restaurant (e.g., dining, café)
 ## Zomato Analysis
 This project utilizes the following Python libraries to analyze and visualize the data:
+
 Numpy: For handling complex numerical computations efficiently.
 
 Pandas: For data manipulation and creating structured data frames for analysis.
